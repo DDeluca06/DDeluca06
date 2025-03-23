@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 # 💫 About Me:
-🌱 I’m currently learning CSS, HTML, JavaScript and Python<br>🤔 I’m looking for help with everything applicable, when the oppertunity for help arises<br>💬 Ask me about anything!<br>📫 How to reach me: Email primarily, or my Inbox<br>😄 Pronouns: He/Him<br>⚡ Fun fact: You can run DOOM on 16,039,018,500 crabs.
+🌱 I’m currently learning R, NextJS and Go.<br>🤔 I’m always open to help, even if I'm not the most suitable person for advice.<br>💬 Ask me about anything!<br>📫 How to reach me: Email, or my Inbox<br>😄 Pronouns: He/Him<br>⚡ Fun fact: You can run DOOM on 16,039,018,500 crabs.
 
 
 ## 🌐 Socials:
